@@ -15,7 +15,7 @@ If you use these tools or refer to the bias correction methods in your research,
 ### Quantile Empirical Mapping
 •	Lyra, A., & Loukas, A. (2023). Simulation and Evaluation of Water Resources Management Scenarios Under Climate Change for Adaptive Management of Coastal Agricultural Watersheds. Water Resources Management, 37(6-7), 2625-2642.https://doi.org/10.1007/s11269-022-03392-x
 
-•	Lyra, A., Loukas, A., Sidiropoulos , P., & Vasiliades , L. (2024). Climate Change Impacts on Nitrate Leaching and Groundwater Nitrate Dynamics Using a Holistic Approach and Med‒CORDEX Climatic Models. Water. 2024, 16, x. https://doi.org/10.3390/xxxxx
+•	Lyra, A., Loukas, A., Sidiropoulos , P., & Vasiliades , L. (2024). Climate Change Impacts on Nitrate Leaching and Groundwater Nitrate Dynamics Using a Holistic Approach and Med‒CORDEX Climatic Models. Water. 2024,16(3), 465. https://doi.org/10.3390/w16030465
 
 ### Delta Mean and/or Delta Mean and Variance and/or Quantile Gamma Mapping
 •	Lyra, A., & Loukas, A. (2023). Simulation and Evaluation of Water Resources Management Scenarios Under Climate Change for Adaptive Management of Coastal Agricultural Watersheds. Water Resources Management, 37(6-7), 2625-2642.https://doi.org/10.1007/s11269-022-03392-x
