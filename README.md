@@ -11,7 +11,7 @@ The repository includes two Excel files:
 
 2.Bias Correction Methods__ DM_DMV_QGM.xlsm
 
-3.Taylor Diagram.xlsχ
+3.Taylor Diagram.xlsx
 
 If you use these tools or refer to the bias correction methods in your research, please cite the following papers:
 ### Quantile Empirical Mapping / Taylor Diagram
